@@ -15,7 +15,7 @@
     "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build"
   },
   "dependencies": {
-    "@artsy/fresnel": "^1.2.0",
+    "@artsy/fresnel": "^6.2.1",
     "@loadable/component": "^5.13.1",
     "clsx": "^1.1.1",
     "next": "^12.2.5",
